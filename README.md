@@ -19,7 +19,7 @@ __Welcome__ ![visitor](https://visitor-badge.glitch.me/badge?page_id=sampreets3.
 
 ---
 
-Hey there, I am Sampreet Sarkar. I am a Robotics Engineer at [CEA Tech](www.cea-tech.fr) Nantes, in the Human Assistance Platform. I previously worked as an __Embedded Vision and Machine Learning Intern__ at [3D Aerospace](https://www.3daerospace.eu), where I worked with the team to detect and asses the health of grapes in a vineyard using Deep Learning and Computer Vision. My research interests mainly lie with underactuated robotics and bio-robotics, although I try to pick up new skills and new topics of interest as they come. My current work focuses mainly on planification and control of a collaborative robot in a dynamic environment, and it's quite interesting to be working with the tech-stack of today to build the application of tomorrow.
+Hey there, I am Sampreet Sarkar. I am a Robotics Engineer at [CEA Tech](https://www.cea-tech.fr/cea-tech) Nantes, in the Human Assistance Platform. I previously worked as an __Embedded Vision and Machine Learning Intern__ at [3D Aerospace](https://www.3daerospace.eu), where I worked with the team to detect and asses the health of grapes in a vineyard using Deep Learning and Computer Vision. My research interests mainly lie with underactuated robotics and bio-robotics, although I try to pick up new skills and new topics of interest as they come. My current work focuses mainly on planification and control of a collaborative robot in a dynamic environment, and it's quite interesting to be working with the tech-stack of today to build the application of tomorrow.
 
 ### A little more about me
 
