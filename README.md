@@ -25,9 +25,8 @@ Hey there, I am Sampreet Sarkar. I am a Robotics Engineer at [CEA Tech](www.cea-
 
 - 🔭 I’m currently working on __control and trajectory generation for collaborative robots__.
 - 🌱 I’m currently learning __Spanish__.
-- 👯 I’m looking to collaborate on __Robotics, Computer Vision, Embedded Systems, Deep Learning__
-- 🤔 I’m looking for help with __DeepSORT tracking__
-- 💬 Ask me about __Robotics, Embedded Systems, Software Development__
+- 👯 I’m looking to collaborate on __Robotics, Computer Vision, Embedded Systems, Deep Learning__.
+- 💬 Ask me about __Robotics, Embedded Systems, Software Development__.
 - 📫 How to reach me: [sampreets3@gmail.com](mailto:sampreets3@gmail.com)
 
 ---
