@@ -43,36 +43,6 @@ h2::selection {
   background: var(--secondary-color);
 }
 
-/* Language toggle */
-#language {
-  display: none;
-}
-
-.toggle-flags {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  cursor: pointer;
-}
-
-.toggle-flags > img {
-  transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-  width: 30px;
-}
-
-.french {
-  transform: rotate(10deg);
-}
-
-#switch:checked + .toggle-flags .french {
-  transform: rotate(250deg);
-}
-
-#switch:checked + .toggle-flags .english {
-  transform: rotate(100deg);
-}
-
-
 /* Dark mode toggle */
 #switch {
   display: none;
@@ -166,12 +136,14 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project/simple-gui.png) center center/cover;
+  background: url(https://raw.githubusercontent.com/sampreets3/simple_gui/main/res/demo.gif
+) center center/cover;
 }
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/project-two.png) center center/cover;
+  background: url(https://raw.githubusercontent.com/sampreets3/scheduler-RM/main/res/imgs/screen-output.gif
+) center center/cover;
 }
 
 /* Project 3 */
